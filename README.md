@@ -1,1 +1,2 @@
-# gqlClass
+# gqlClass 
+GraphQL Class
